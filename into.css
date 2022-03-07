@@ -1,0 +1,53 @@
+
+body{
+    background-color:#b0e0e6;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: brown;
+}
+h2{
+    color: black;
+}
+h3{
+    color: darkred;
+
+}
+h4{
+    color: blue;
+}
+h{
+    color: firebrick;
+}
+h5{
+    color: crimson;
+}
+p{
+    text-align: center;
+}
+p1{
+    color: peru;
+}
+p2{
+    color: indigo;
+}
+address{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    backface-visibility: visible;
+    width: 300px;
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
